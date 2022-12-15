@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b29e1c9d-4a39-4788-a5ef-9ee883a38989/deploy-status)](https://app.netlify.com/sites/quiet-praline-22531f/deploys)
 
 # HTML and CSS Assessment
 
